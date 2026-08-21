@@ -1,0 +1,44 @@
+body {
+    background-color: lavenderblush;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: palevioletred;
+    font-size: xxx-large;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+
+h3.subtitle {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-style: oblique;
+    font-size: larger;
+    color: palevioletred;
+}
+
+h2.days {
+    margin-bottom: 10px;
+    font-size: 70px;
+}
+
+h2.label {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+p.time {
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+p.hours {
+    margin-bottom: 6px;
+    margin-top: 0px;
+}
